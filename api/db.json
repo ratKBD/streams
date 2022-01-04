@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My Stream ",
+      "description": "This is a great Stream",
+      "id": 1
+    },
+    {
+      "title": "ratheesh",
+      "description": "vijayan",
+      "id": 2
+    },
+    {
+      "title": "istathukku",
+      "description": "thatti vidu",
+      "userId": "112819842681250331995",
+      "id": 4
+    }
+  ]
+}
